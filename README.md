@@ -2,7 +2,7 @@
 
 Evolutionary Feature Selection in Multi-Representational Text Environments for Unsupervised Text Clustering.
 
-Repository: :contentReference[oaicite:0]{index=0}
+Repository: [FSGA-MuRTe GitHub Repository](https://github.com/gasparjpv/FSGAMuTRe)
 
 ---
 

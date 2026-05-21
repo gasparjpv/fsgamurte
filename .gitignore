@@ -47,3 +47,9 @@ src/gafsmre/representations/bert_models_cache/**
 # Media
 *.png
 *.mp4
+
+# Dicionarios
+*.dic
+*.dct
+*.dict
+*.dict.p

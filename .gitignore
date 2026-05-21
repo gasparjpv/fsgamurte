@@ -1,0 +1,49 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+
+# Datasets
+datasets/**
+shared/datasets/**
+
+# Results and vectors
+results/**
+vectors/**
+out/**
+
+# Models and embeddings
+*.bin
+*.model
+*.safetensors
+*.npy
+*.npz
+*.pickle
+*.pkl
+*.parquet
+*.h5
+
+# HuggingFace / Transformers cache
+bert_models_cache/**
+src/gafsmre/representations/bert_models_cache/**
+
+# Logs
+*.log
+
+# Media
+*.png
+*.mp4

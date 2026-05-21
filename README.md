@@ -4,6 +4,9 @@ Evolutionary Feature Selection in Multi-Representational Text Environments for U
 
 Repository: [FSGA-MuRTe GitHub Repository](https://github.com/gasparjpv/FSGAMuTRe)
 
+<a href="https://doi.org/10.5281/zenodo.20333120"><img src="https://zenodo.org/badge/1245981171.svg" alt="DOI"></a>
+
+
 ---
 
 # Overview

@@ -11,7 +11,7 @@ Repository: [FSGA-MuRTe GitHub Repository](https://github.com/gasparjpv/FSGAMuTR
 
 # Overview
 
-This repository contains the codebase developed for the Master's Dissertation in Technology at the Faculty of Technology (FT) of the :contentReference[oaicite:1]{index=1}.
+This repository contains the codebase developed for the Master's Dissertation in Technology at the Faculty of Technology (FT) of the UNICAMP. 
 
 The project proposes an evolutionary framework for unsupervised feature selection in multi-representational text clustering environments using Genetic Algorithms (GA).
 
